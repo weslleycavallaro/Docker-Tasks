@@ -28,8 +28,8 @@
 ![4](/1.facil/1/img/4.png)
 
 ### 5️⃣ acesse a pagina
-    ```bash
+
     http://localhost:8080
-    ```
+
 
 ![5](/1.facil/1/img/5.png)

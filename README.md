@@ -28,7 +28,7 @@ Desafios para reforçar o conhecimento:
 - Criando e utilizando volumes para persistência de dados
 - Criando e rodando um container multi-stage
 - Construindo uma rede Docker para comunicação entre containers
-- Criando um compose file para rodar uma aplicação com banco de
+- Criando um compose file para rodar uma aplicação com banco de dados
 
 👉 Acesse: [`2.medio/`](/2.medio)
 

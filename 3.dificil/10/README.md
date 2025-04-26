@@ -9,18 +9,18 @@
 ![1](/3.dificil/10/img/1.png)
 
 
-### 2️⃣ crie o script em python
+### 2️⃣ Crie o script em python
 
-### 3️⃣ crie o arquivo dockerfile
+### 3️⃣ Crie o arquivo dockerfile
     
-### 4️⃣ construa a imagem docker
+### 4️⃣ Construa a imagem docker
 
     docker build -t scriptpython .
 
 
 ![4](/3.dificil/10/img/4.png)
 
-### 5️⃣ rode o container
+### 5️⃣ Rode o container
 
     docker run -dit --name scriptpython scriptpython
 

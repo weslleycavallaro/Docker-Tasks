@@ -12,13 +12,13 @@
 
 ### 2️⃣ Parando um container em execucao
 
-    docker stop 546
+    docker stop 2c9
 
 ![2](/1.facil/3/img/2.png)
 
 
 ### 3️⃣ Removendo um container especifico
 
-    docker rm 546
+    docker rm 2c9
 
 ![3](/1.facil/3/img/3.png)
